@@ -1,5 +1,11 @@
 # Student Management System
 
+## Project Poster
+
+![Student Management System Poster](https://github.com/alphaaa-m/Student_Management_System/blob/main/SMS_POSTER.png)
+
+---
+
 ## Project Description
 
 The **Student Management System (SMS)** is a RESTful API built with **FastAPI** that provides a robust backend for managing student, course, and enrollment data. The system includes features for **user authentication and authorization**, allowing for different levels of access (admin vs. regular user) to protect sensitive data. The project uses **SQLAlchemy** with a **SQLite** database to handle data persistence, and **Pydantic** for data validation.
